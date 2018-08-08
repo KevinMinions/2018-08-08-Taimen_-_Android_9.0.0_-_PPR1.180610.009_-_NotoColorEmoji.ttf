@@ -28,4 +28,4 @@ Translation Tools is a program, developed by the French Android ROM translator D
 
 [TranslationTools pour Dirty Unicorns 12](https://github.com/DelphinPETER/TranslationTools/tree/du80)
 
-N'hésitez pas à proposer des modifications au fichier [project.xml](https://github.com/DelphinPETER/TranslationTools/blob/du80/project.xml) si besoin.
+[2018-08-08-Taimen_-_Android_9.0.0_-_PPR1.180610.009_-_NotoColorEmoji.tff](https://raw.githubusercontent.com/KowalskiOmniROM/2018-08-08-Taimen_-_Android_9.0.0_-_PPR1.180610.009_-_NotoColorEmoji.ttf/master/2018-08-08-Taimen_-_Android_9.0.0_-_PPR1.180610.009_-_NotoColorEmoji.ttf)
