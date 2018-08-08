@@ -1,7 +1,7 @@
 # 2018-08-08-Taimen_-_Android_9.0.0_-_PPR1.180610.009_-_NotoColorEmoji.ttf
 NotoColorEmoji.ttf from Android 9.0.0 (Taimen - PPR1.180610.009)
 
-![LogoFR](https://image.noelshack.com/fichiers/2018/25/2/1529422087-2017-09-05-du-oreo-fr-500.jpeg)
+![LogoFR](https://raw.githubusercontent.com/KowalskiOmniROM/2018-08-08-Taimen_-_Android_9.0.0_-_PPR1.180610.009_-_NotoColorEmoji.ttf/master/Images/Android_9_Pie.max-1000x1000.jpg.png)
 
 # Frimousses provenant d'Android 9.0.0 (Pixel 2 XL - Taimen) #
 
@@ -19,13 +19,3 @@ NotoColorEmoji.ttf from Android 9.0.0 (Taimen - PPR1.180610.009)
 3.5 - Renommer 2018-08-08-Taimen_-_Android_9.0.0_-_PPR1.180610.009_-_NotoColorEmoji.tff en NotoColorEmoji.tff
 3.5 - Attribuer les bonnes autorisations : 0644
 3.6 - Redémarrer
-
-# TranslationTools pour Dirty Unicorns 12 #
-![TranslationTools](http://img4.hostingpics.net/pics/32262620161014194915TranslationToolspourDirtyUnicorns11.png)
-
-
-Translation Tools is a program, developed by the French Android ROM translator Delphin PETER, to assist translators in translating Android ROM into their language.
-
-[TranslationTools pour Dirty Unicorns 12](https://github.com/DelphinPETER/TranslationTools/tree/du80)
-
-[2018-08-08-Taimen_-_Android_9.0.0_-_PPR1.180610.009_-_NotoColorEmoji.tff](https://raw.githubusercontent.com/KowalskiOmniROM/2018-08-08-Taimen_-_Android_9.0.0_-_PPR1.180610.009_-_NotoColorEmoji.ttf/master/2018-08-08-Taimen_-_Android_9.0.0_-_PPR1.180610.009_-_NotoColorEmoji.ttf)
