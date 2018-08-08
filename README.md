@@ -7,7 +7,7 @@ NotoColorEmoji.ttf from Android 9.0.0 (Taimen - PPR1.180610.009)
 
 0 - Sauvegarder system/fonts/NotoColorEmoji.tff
 
-1 - Télécharger la police 2018-08-08-Taimen_-_Android_9.0.0_-_PPR1.180610.009_-_NotoColorEmoji.tff sur l'appareil
+1 - Télécharger la police d'écriture [2018-08-08-Taimen_-_Android_9.0.0_-_PPR1.180610.009_-_NotoColorEmoji.tff](https://raw.githubusercontent.com/KowalskiOmniROM/2018-08-08-Taimen_-_Android_9.0.0_-_PPR1.180610.009_-_NotoColorEmoji.ttf/master/2018-08-08-Taimen_-_Android_9.0.0_-_PPR1.180610.009_-_NotoColorEmoji.ttf) sur l'appareil
 
 2 - Copier 2018-08-08-Taimen_-_Android_9.0.0_-_PPR1.180610.009_-_NotoColorEmoji.tff dans system/fonts/
 
